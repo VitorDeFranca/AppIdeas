@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bin2Dec")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+901b646e4254037930efbfb7e53fad383aae7cca")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bin2Dec")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bin2Dec")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
